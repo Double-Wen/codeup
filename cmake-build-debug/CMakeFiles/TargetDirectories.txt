@@ -1,0 +1,14 @@
+/home/ubuntu/CLionProjects/codeup/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/CLionProjects/codeup/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ubuntu/CLionProjects/codeup/cmake-build-debug/CMakeFiles/code_1010.dir
+/home/ubuntu/CLionProjects/codeup/cmake-build-debug/CMakeFiles/code_1009.dir
+/home/ubuntu/CLionProjects/codeup/cmake-build-debug/CMakeFiles/code_1008.dir
+/home/ubuntu/CLionProjects/codeup/cmake-build-debug/CMakeFiles/code_1007.dir
+/home/ubuntu/CLionProjects/codeup/cmake-build-debug/CMakeFiles/code_1006.dir
+/home/ubuntu/CLionProjects/codeup/cmake-build-debug/CMakeFiles/code_1005.dir
+/home/ubuntu/CLionProjects/codeup/cmake-build-debug/CMakeFiles/code_1003.dir
+/home/ubuntu/CLionProjects/codeup/cmake-build-debug/CMakeFiles/code_1004.dir
+/home/ubuntu/CLionProjects/codeup/cmake-build-debug/CMakeFiles/code_1000.dir
+/home/ubuntu/CLionProjects/codeup/cmake-build-debug/CMakeFiles/code_1001.dir
+/home/ubuntu/CLionProjects/codeup/cmake-build-debug/CMakeFiles/codeup.dir
+/home/ubuntu/CLionProjects/codeup/cmake-build-debug/CMakeFiles/code_1002.dir

@@ -1,0 +1,17 @@
+cmake_minimum_required(VERSION 3.15)
+project(codeup)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(codeup main.cpp)
+add_executable(code_1000 code/1000.cpp)
+add_executable(code_1001 code/1001.cpp)
+add_executable(code_1002 code/1002.cpp)
+add_executable(code_1003 code/1003.cpp)
+add_executable(code_1004 code/1004.cpp)
+add_executable(code_1005 code/1005.cpp)
+add_executable(code_1006 code/1006.cpp)
+add_executable(code_1007 code/1007.cpp)
+add_executable(code_1008 code/1008.cpp)
+add_executable(code_1009 code/1009.cpp)
+add_executable(code_1010 code/1010.cpp)

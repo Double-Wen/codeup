@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/code_1007.dir/code/1007.cpp.o  -o code_1007 

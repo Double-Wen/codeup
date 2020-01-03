@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/code_1005.dir/code/1005.cpp.o  -o code_1005 

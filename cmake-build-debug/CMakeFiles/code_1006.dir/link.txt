@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/code_1006.dir/code/1006.cpp.o  -o code_1006 

@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/codeup.dir/main.cpp.o  -o codeup 
